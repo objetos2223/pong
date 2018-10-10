@@ -1,5 +1,7 @@
 ## Pong
 
+Mas historias ....
+
 ### Descripción
 
 Pong es uno de los primeros juegos de computadora, en su versión clásica dos jugadores controlan una raqueta cada uno para hacer rebotar una pelota de un lado a otro. Si se le pasa una pelota a un jugador, el otro obtiene un punto.
