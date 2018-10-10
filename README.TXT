@@ -18,3 +18,4 @@ Pong es uno de los primeros juegos de computadora, en su versión clásica dos j
 9. Como jugador quiero un mensaje de felicitaciones cuando obtenga 5 puntos para saber que ya gané el juego.
 10. Como jugador quiero que la pelota aumente un 20% su velocidad después de cada 30 segundos para que el juego resulte más desafiante. 
 
+Comentario adicional
