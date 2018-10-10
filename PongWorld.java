@@ -8,7 +8,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  */
 public class PongWorld  extends World
 {
-
+    // comentario en World
     /**
      * Constructor for objects of class PongWorld.
      * 
