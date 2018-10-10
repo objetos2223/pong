@@ -14,6 +14,7 @@ public class Paddle  extends Actor
      */
     public void act() 
     {
+        // comentario sobre el paddle desde objetos2223
         // comentario sobre el paddle desde el tecweb2225
     }    
 }
