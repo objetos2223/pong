@@ -14,6 +14,6 @@ public class Paddle  extends Actor
      */
     public void act() 
     {
-        // Add your action code here.
+        // comentario sobre el paddle desde el tecweb2225
     }    
 }
