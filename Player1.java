@@ -14,6 +14,6 @@ public class Player1 extends Paddle
      */
     public void act() 
     {
-        // Add your action code here.
+        // comentario sobre el jugador 1
     }    
 }
