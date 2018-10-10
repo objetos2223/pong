@@ -18,8 +18,8 @@ public class PongWorld  extends World
         // Create a new world with 20x20 cells with a cell size of 10x10 pixels.
         super(700, 500, 1);
         
-        addObject(new Paddle(), 350, 30);
-        addObject(new Paddle(), 350, 470);
+        addObject(new Player1(), 350, 30);
+        addObject(new Player2(), 350, 470);
         addObject(new Ball(), 350, 250);
         
     }
